@@ -16,7 +16,7 @@ export const Navegacion = () => {
                     Home 🏠
                     </Link>
                     <Link
-                        to="/contacto"
+                        to="/contact"
                         className="text-white ms-3 text-decoration-none"
                     >
                     Contacto 📒
